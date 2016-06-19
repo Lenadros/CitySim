@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Block_Grass.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Block_Rock.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Block_Water.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Buildings_Resource.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Cursor.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Home_Low.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Icon_Fertile.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Icon_Mineral.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Icon_Water.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Icons.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/Mine_Basic.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_Alert.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_AlertGreen.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_Build_Panel.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_DataBar.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_InfoBox.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_InfoBox_Block.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/UI_InfoBox_Building.png</File>
+    <File>c:/users/tsail/documents/visual studio 2015/Projects/CitySim/CitySim/Content/mFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
